@@ -5382,6 +5382,7 @@ nav a#pull {
 
   #hero-form {
     align-items: start !important;
+    min-height: 300px !important;
   }
 
   .ajustealtura {
