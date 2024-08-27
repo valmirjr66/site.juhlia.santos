@@ -2369,9 +2369,9 @@ span.section-id {
 }
 
 #hero-3 {
-  background-size: auto 80% !important;
+  background-size: auto 90% !important;
   background-position: center bottom;
-  background-image: url(./ju-soares-2.png);
+  background-image: url(./ju-soares-1.png);
   padding-top: 180px;
 }
 
@@ -5385,7 +5385,7 @@ nav a#pull {
   #hero-3 {
     background-size: auto 90% !important;
     background-position: center bottom;
-    background-image: url(./ju-soares-2.png);
+    background-image: url(./ju-soares-1.png);
   }
 
   .hero-txt {
@@ -5541,9 +5541,9 @@ nav a#pull {
   text-align: center;
   display: block;
   padding: 10px;
-  box-shadow: 0 0 0 0 rgba(122, 247, 105, 0.461);
+  box-shadow: 0 0 0 0 rgba(222, 10, 162, 0.461);
   border-radius: 10px;
-  background-color: #00a303;
+  background-color: #731868;
   animation: pulsing 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
   color: #ffffff;
   transition: all 300ms ease-in-out;
@@ -5596,4 +5596,12 @@ a.pulse-button:hover {
   font-size: 80px;
   position: absolute;
   z-index: -1000;
+}
+
+#strip {
+  background: url(./carimbo.png);
+  height: 150px;
+  background-size: 280px;
+  background-position: center center;
+  background-repeat: repeat-x;
 }
