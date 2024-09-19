@@ -5605,3 +5605,7 @@ a.pulse-button:hover {
   background-position: center center;
   background-repeat: repeat-x;
 }
+
+.navbar>.container {
+  flex-wrap: unset;
+}
